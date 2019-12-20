@@ -31,8 +31,9 @@ public class Uri1015 {
         //Print Distance 4th Decimal
         System.out.printf("%.4f\n", Dist);
 
-    }
+        System.out.println("in nyc");
 
+    }
 
 
 
