@@ -8,10 +8,10 @@ public class Uri1010 {
         // write your code here
 
         //Product 1
-        int Prod1_ID,Prod1_Q;
+        int Prod1_ID, Prod1_Q;
         double Prod1_Price;
         //Product 2
-        int Prod2_ID,Prod2_Q;
+        int Prod2_ID, Prod2_Q;
         double Prod2_Price;
         //Value To Pay
         double Valor;

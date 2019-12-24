@@ -7,7 +7,7 @@ public class Uri1007 {
     public static void main(String[] args) {
         // write your code here
 
-        int A,B,C,D;
+        int A, B, C, D;
         Scanner sc = new Scanner(System.in);
         A = sc.nextInt();
         B = sc.nextInt();
@@ -17,6 +17,6 @@ public class Uri1007 {
         int DIFERENCA;
         DIFERENCA = (A * B) - (C * D);
 
-        System.out.println("DIFERENCA = "+DIFERENCA);
+        System.out.println("DIFERENCA = " + DIFERENCA);
     }
 }

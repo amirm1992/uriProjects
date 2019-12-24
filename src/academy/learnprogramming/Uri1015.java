@@ -32,14 +32,7 @@ public class Uri1015 {
         System.out.printf("%.4f\n", Dist);
 
 
-
     }
 
 
-
-
-
-
-
-
-    }
+}

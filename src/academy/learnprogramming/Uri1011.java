@@ -2,7 +2,7 @@ package academy.learnprogramming;
 
 import java.util.Scanner;
 
-public class Uri1011{
+public class Uri1011 {
 
     public static void main(String[] args) {
 
